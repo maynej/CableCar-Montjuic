@@ -31,7 +31,7 @@ Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-
 
 ## QR
 
-<img src="Imatges/QR_Teleferic.png" width="100" />
+<img src="Imatges/QR_Teleferic.png" width="200" />
 
 
 
