@@ -11,7 +11,7 @@ La documentació en llengua castellana es pot trobar en [PDF](https://github.com
 
 ## Propostes 
   
-Descripció         | Imatge          | Arxiu PDF    
+Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
 Base Cabina |![](Imatges/Base.png) | [Base](STL/Base.STL) 
 Bancs |![](Imatges/Bancs.png) | [Bancs](STL/Bancs_x2.STL)
