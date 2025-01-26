@@ -13,11 +13,12 @@ La documentació en llengua castellana es pot trobar en [PDF](https://github.com
   
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Base Cabina |![](Imatges/CaminadorCarretoStemfie.jpg) | [Caminador Amb Carretò](DOC_CAT/CaminadorAmbCarretò_CAT.pdf) 
-Sostre Cabina |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf) 
-Topes |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf)
-Suport ganxo |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf)
-Ganxo |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf)
+Base Cabina |![](Imatges/Base.png) | [Base](STL/Base.STL) 
+Bancs |![](Imatges/Bancs.png) | [Bancs](STL/Bancs_x2.STL)
+Sostre Cabina |![](Imatges/Sostre.png) | [Sostre](STL/Sostre.STL) 
+Topalls |![](Imatges/Topalls.png) | [Topalls](STL/Topalls_x4.STL)
+Suport ganxo |![](Imatges/Suport.png) | [Suport](STL/Suport.STL)
+Perxa |![](Imatges/Perxa.png) | [Ganxo](STL/Perxa.STL)
 
 ## Llicència
 
