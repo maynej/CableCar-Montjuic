@@ -15,7 +15,9 @@ Descripció         | Imatge          | Arxiu PDF
 ------------- | ------------- | ------------- 
 Base Cabina |![](Imatges/CaminadorCarretoStemfie.jpg) | [Caminador Amb Carretò](DOC_CAT/CaminadorAmbCarretò_CAT.pdf) 
 Sostre Cabina |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf) 
-
+Topes |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf)
+Suport ganxo |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf)
+Ganxo |![](Imatges/Grill.jpg) | [Grill](DOC_CAT/Grill_CAT.pdf)
 
 ## Llicència
 
