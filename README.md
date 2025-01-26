@@ -1,7 +1,9 @@
 # Telefèric de Montjuïc
 Maqueta Educativa del Teléric de Montjuïc 
 
-<img src="Imatges/Cabina.png" width="100" />
+<img src="Imatges/UnderConstruction.png" width="100" />
+
+<img src="Imatges/Cabina.jpg" width="200" />
 
 
 # Automats-Stemfie
