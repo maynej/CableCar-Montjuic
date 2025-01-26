@@ -1,11 +1,14 @@
 # Telefèric de Montjuïc
 Maqueta Educativa del Teléric de Montjuïc 
 
+<img src="Imatges/Cabina.png" width="100" />
+
+
 # Automats-Stemfie
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-L'objectiu es muntar-la en el Fab de la Casa del Mig 
+L'objectiu es muntar-la en el Fab de la Casa del Mig https://www.fabcasadelmig.cat/  <img src="Imatges/Fab.png" width="50" />
 
 La documentació en llengua castellana es pot trobar en [PDF](https://github.com/maynej/CableCar-Montjuic/tree/main/DOC_ESP) 
 
@@ -14,11 +17,11 @@ La documentació en llengua castellana es pot trobar en [PDF](https://github.com
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
 Base Cabina |![](Imatges/Base.png) | [Base](STL/Base.stl) 
-Bancs |![](Imatges/Bancs.png) | [Bancs](STL/Bancs_x2.STL)
-Sostre Cabina |![](Imatges/Sostre.png) | [Sostre](STL/Sostre.STL) 
-Topalls |![](Imatges/Topalls.png) | [Topalls](STL/Topalls_x4.STL)
-Suport ganxo |![](Imatges/Suport.png) | [Suport](STL/Suport.STL)
-Perxa |![](Imatges/Perxa.png) | [Ganxo](STL/Perxa.STL)
+Bancs |![](Imatges/Bancs.png) | [Bancs](STL/Bancs_x2.stl)
+Sostre Cabina |![](Imatges/Sostre.png) | [Sostre](STL/Sostre.stl) 
+Topalls |![](Imatges/Topalls.png) | [Topalls](STL/Topalls_x4.stl)
+Suport ganxo |![](Imatges/Suport.png) | [Suport](STL/Suport.stl)
+Perxa |![](Imatges/Perxa.png) | [Ganxo](STL/Perxa.stl)
 
 ## Llicència
 
