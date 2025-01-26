@@ -13,7 +13,7 @@ La documentació en llengua castellana es pot trobar en [PDF](https://github.com
   
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
-Base Cabina |![](Imatges/Base.png) | [Base](STL/Base.STL) 
+Base Cabina |![](Imatges/Base.png) | [Base](STL/Base.stl) 
 Bancs |![](Imatges/Bancs.png) | [Bancs](STL/Bancs_x2.STL)
 Sostre Cabina |![](Imatges/Sostre.png) | [Sostre](STL/Sostre.STL) 
 Topalls |![](Imatges/Topalls.png) | [Topalls](STL/Topalls_x4.STL)
