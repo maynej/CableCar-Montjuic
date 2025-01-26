@@ -10,7 +10,7 @@ Maqueta Educativa del Teléric de Montjuïc
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-L'objectiu es muntar-la en el Fab de la Casa del Mig https://www.fabcasadelmig.cat/  <img src="Imatges/FAB.png" width="100" />
+L'objectiu es muntar-la en el [Fab de la Casa del Mig](https://www.fabcasadelmig.cat/)  <img src="Imatges/FAB.png" width="100" />
 
 La documentació en llengua castellana es pot trobar en [PDF](https://github.com/maynej/CableCar-Montjuic/tree/main/DOC_ESP) 
 
