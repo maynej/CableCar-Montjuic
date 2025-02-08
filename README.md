@@ -21,7 +21,7 @@ Descripció         | Imatge          | Arxius STL
 Base Cabina |![](Imatges/Base.png) | [Base](STL/Base.stl) 
 Bancs |![](Imatges/Bancs.png) | [Bancs](STL/Bancs_x2.stl)
 Sostre Cabina |![](Imatges/Sostre.png) | [Sostre](STL/Sostre.stl) 
-Topalls |![](Imatges/Topalls.png) | [Topalls](STL/Topalls_x4.stl)
+Topalls |![](Imatges/Topalls.png) | [Topalls](STL/Topall_x4.stl)
 Suport ganxo |![](Imatges/SobreSostre.png) | [Suport](STL/SobreSostre.stl)
 Perxa |![](Imatges/Perxa.png) | [Perxa](STL/Perxa.stl)
 
