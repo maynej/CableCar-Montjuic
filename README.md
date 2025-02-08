@@ -1,5 +1,5 @@
 # Telefèric de Montjuïc
-Maqueta Educativa del Teléric de Montjuïc 
+Maqueta Educativa del Teleféric de Montjuïc 
 
 <img src="Imatges/UnderConstruction.png" width="100" />
 
