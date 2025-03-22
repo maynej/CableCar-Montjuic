@@ -47,7 +47,7 @@ Descripció         | Imatge          | Arxius STL
   
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
- |![](Imatges/.png) | [Base](STL/STL_Cabines/Base.stl) 
+Motor |![](Imatges/.png) | [Base](STL/STL_Cabines/Base.stl) 
 
 
 ## Llicència
