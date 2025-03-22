@@ -40,7 +40,7 @@ SubPorta Politxes 2 |![](Imatges/SubPortaPolitxa2.png) | [SubPorta Poltxa 2](STL
   
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
- |![](Imatges/.png) | [Base](STL/STL_Postes/BasePoste_x3.stl
+Engranatge |![](Imatges/.png) | [Base](STL/STL_Postes/BasePoste_x3.stl
 
 
 ## Estacio Inferior 
