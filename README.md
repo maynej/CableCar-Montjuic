@@ -29,25 +29,25 @@ Perxa |![](Imatges/Perxa.png) | [Perxa](STL/STL_Cabines/Perxa.stl)
   
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
-Base Poste |![](Imatges/BasePoste.png) | [Base Poste](STL/STL_Postes/BasePoste_x3.stl
-Poste |![](Imatges/Poste.png) | [Poste](STL/STL_Postes/Poste_x3.stl
-Porta Politxes 1 |![](Imatges/PortaPolitxes1.png) | [Porta Politxa 1](STL/STL_Postes/PortaPolitxes1_x6.stl
-Porta Politxes 2 |![](Imatges/PortaPolitxes2.png) | [Porta Politxa 2](STL/STL_Postes/PortaPolitxes2_x6.stl
-SubPorta Politxes 1 |![](Imatges/SubPortaPolitxa1.png) | [SubPorta Politxa 1](STL/STL_Postes/SubPortapolitxes2_x12.stl
-SubPorta Politxes 2 |![](Imatges/SubPortaPolitxa2.png) | [SubPorta Poltxa 2](STL/STL_Postes/SubPortapolitxes2_x12.stl
+Base Poste |![](Imatges/BasePoste.png) | [Base Poste](STL/STL_Postes/BasePoste_x3.stl)
+Poste |![](Imatges/Poste.png) | [Poste](STL/STL_Postes/Poste_x3.stl)
+Porta Politxes 1 |![](Imatges/PortaPolitxes1.png) | [Porta Politxa 1](STL/STL_Postes/PortaPolitxes1_x6.stl)
+Porta Politxes 2 |![](Imatges/PortaPolitxes2.png) | [Porta Politxa 2](STL/STL_Postes/PortaPolitxes2_x6.stl)
+SubPorta Politxes 1 |![](Imatges/SubPortaPolitxa1.png) | [SubPorta Politxa 1](STL/STL_Postes/SubPortapolitxes2_x12.stl)
+SubPorta Politxes 2 |![](Imatges/SubPortaPolitxa2.png) | [SubPorta Poltxa 2](STL/STL_Postes/SubPortapolitxes2_x12.stl)
 
 ## Estacio Superior 
   
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
-Engranatge |![](Imatges/.png) | [Base](STL/STL_Postes/BasePoste_x3.stl
+Engranatge |![](Imatges/.png) | [Base](STL/STL_Postes/_x3.stl)
 
 
 ## Estacio Inferior 
   
 Descripció         | Imatge          | Arxius STL    
 ------------- | ------------- | ------------- 
-Motor |![](Imatges/.png) | [Base](STL/STL_Cabines/Base.stl) 
+Motor |![](Imatges/.png) | [Base](STL/STL_Cabines/.stl) 
 
 
 ## Llicència
